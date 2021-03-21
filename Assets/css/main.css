@@ -31,6 +31,13 @@ body {
   position: relative;
   top: 5rem;
 }
+
+.anime {
+  position: relative;
+  right: 50px;
+  top: 70px;
+}
+
 .aboutus-wrapper {
   position: relative;
   top: 30rem;
@@ -57,6 +64,12 @@ body {
   top: 60rem;
   text-align: center;
   background-color: #363653;
+}
+
+.watch-wrapper {
+  position: relative;
+  top: 40rem;
+  text-align: center;
 }
 
 .underline {
@@ -93,6 +106,8 @@ h6 {
   align-items: right;
 }
 .intro-content {
+  position: relative;
+  top: 7rem;
   justify-content: center;
   align-self: flex-end;
 }
